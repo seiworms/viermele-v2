@@ -1,0 +1,23 @@
+{
+    "name":"viermii",
+    "description":"cristian muncitorul",
+    "website":"website",
+    "twitter":"twitter",
+    "discord":"discord",
+    "rpc":"https://rpc.wallet.pacific-1.sei.io",
+    "network":"pacific-1", 
+    "collection_address":"sei1wcrllvl7wfzu8m95v2dhdmt439e783dhcw8qrad7lldq50qhtlaqnkdjz2", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
